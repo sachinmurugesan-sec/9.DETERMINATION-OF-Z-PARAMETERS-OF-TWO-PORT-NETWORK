@@ -29,11 +29,13 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
  
 
 **CIRCUIT DIAGRAM:**
+![WhatsApp Image 2026-03-23 at 12 02 04 AM](https://github.com/user-attachments/assets/30252904-130d-4b1d-afb9-88ef3fab49be)
 
 
 
 **TABULATION:**
 
+![WhatsApp Image 2026-03-23 at 12 02 04 AM (1)](https://github.com/user-attachments/assets/c24e06ef-6f15-4040-b525-1d6f3bfd99ac)
 
 
 
@@ -49,6 +51,7 @@ e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
 
+![WhatsApp Image 2026-03-23 at 12 02 06 AM](https://github.com/user-attachments/assets/21885dab-9bcd-45c2-a5ca-5db4f1b5b451)
 
 **RESULT:**
 
